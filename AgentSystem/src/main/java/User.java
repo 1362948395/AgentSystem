@@ -4,5 +4,6 @@
 public class User {
     public static void main(){
         System.out.print("hellow word!master");
+        System.out.print("hellow word!master");
     }
 }
