@@ -10,6 +10,6 @@ class Artical
 {
     public function __construct()
     {
-        echo "hellow word";
+        echo "";
     }
 }
