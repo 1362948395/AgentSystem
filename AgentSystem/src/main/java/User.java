@@ -3,6 +3,6 @@
  */
 public class User {
     public static void main(){
-        System.out.print("hellow word!2.0");
+        System.out.print("hellow word!");
     }
 }
